@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @noaspect
-- 👀 I’m interested in cognitive science
-- 🌱 I’m currently learning coding from SICP
-- umm.. I'm an INTP nerd
-
+interested in cognitive science， especially cognitive psychology
+pursueing a higher degree in psychology now
